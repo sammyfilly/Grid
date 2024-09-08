@@ -23,9 +23,9 @@
   },
   "dependencies": {
     "@philipplgh/electron-app-manager": "^0.56.0",
-    "auto-launch": "^5.0.5",
-    "debug": "^4.1.1",
-    "menubar": "^6.0.7",
+    "auto-launch": "^5.0.6",
+    "debug": "^4.3.6",
+    "menubar": "^6.0.8",
     "xterm": "^3.14.4"
   },
   "peerDependencies": {},
